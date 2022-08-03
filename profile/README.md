@@ -3,6 +3,5 @@
 </div>  
   
 
-### <div align="center">This is the nowV Organisation  🚀</div>  
+### <div align="center">This is the nowV GitHub Organisation  🚀</div>  
 
-<br/>  
