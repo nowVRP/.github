@@ -4,9 +4,5 @@
   
 
 ### <div align="center">This is the nowV Organisation  🚀</div>  
-  
-
-<div align="center">- 🔭 we are currently working on - housing, companys & hotels  </div>
-  
 
 <br/>  
